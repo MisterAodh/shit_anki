@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Bone Composition",
+        "answer": "Water 9%\r\nCollogen 90% Type 1\r\nHydroxyapatite 9%\r\nCells",
+        "photo": null
+    },
+    {
+        "question": "What is a BMU?",
+        "answer": "Basic multicellular unit osteoblasts and osteoclasts work together to break down and resorb bone. ",
+        "photo": null
+    },
+    {
+        "question": "What are Bones mechanisms to overcome Fatigue failure",
+        "answer": "Bone Remodelling: Repairs micro cracks and damaged tissue with BMU\r\nCrack propagation control: Osteons and cement lines block crack propagation and dissipate energy\r\nAdaptive remodelling: Responding to mechanical loads wolfs law, reinforces regions of higher stresses",
+        "photo": null
+    },
+    {
+        "question": "Medical devices for Crack repair",
+        "answer": "External Fixator: Bypasses fracture site and provides stability, \r\nIntermedullary Rods: share strain with bone to ensure alignment",
+        "photo": null
+    },
+    {
+        "question": "Explain the steps in Fracture repair?",
+        "answer": "Inflammatory phase: Heamatoma formation recruitment of MSC and growth factors,\r\nRepair phase: Soft Callous fibre cartilage stabilises fracture, hard Callous woven bone endochondrial ossification.\r\nRemodelling phase: lamellar bone replaces woven bone",
+        "photo": null
+    },
+    {
+        "question": "Inter-fragmentary Strain",
+        "answer": "High Strain > 100% non union\r\nMedium Strain 10%- 100% repair promotes fibro cartilage formation\r\nlow strain < 10% promotes cartilage formation +  endochondrial ossification\r\nVery low Strain < 2% Allows direct bone formation.",
+        "photo": null
+    }
+]

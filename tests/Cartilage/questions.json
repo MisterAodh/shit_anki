@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Composition of Cartilage",
+        "answer": "80% water:\r\nCollagen 60% dry weight: forms fibrils with tensile strength\r\nProtoglycans 10%: Hydrophilic proteins, create swelling pressure to resist compression\r\nChondrocytes 2%: Maintain ECM",
+        "photo": null
+    },
+    {
+        "question": "List elements in hyaline cartilage?",
+        "answer": "lamina splendends, superficial tangental zone, middle zone, deep zone, tide mark, Calcified Cartilage",
+        "photo": null
+    },
+    {
+        "question": "Discuss the structure of Hyline cartilage:",
+        "answer": "Superficial tangental zone: protects deeper layers from shear stresses, has the most tensile strength. \r\nMiddle zone: transitional layer, first layer of resistance to compressional loads.\r\nDeep zone: Most compressive strength.\r\nTide mark: region of calcifying cartilage which anchors cartilage to bone.",
+        "photo": null
+    },
+    {
+        "question": "What are the types of Cartilage Lubrication:",
+        "answer": "Boundary Lubrication,\r\nFluid film lubrication: Hydrodynamic Lubrication, Squeeze film lubrication\r\nMixed",
+        "photo": null
+    },
+    {
+        "question": "Describe Boundary Layer Lubrication:",
+        "answer": "On static and instant high force compressions,\r\nLubricin(proteoglycan) forms thin absorbed layer on cartilage preventing contact. \r\n",
+        "photo": null
+    },
+    {
+        "question": "Describe Fluid Film Lubrication",
+        "answer": "Occurs in low compression movement, uses fluid pressure to create a thin load bearing layer\r\nSqueeze film lubrication: Fluid resists expulsion from bearing gap, taking hydrostatic pressure.\r\nHydrodynamic lubrication: Particle friction drag fluid between cartilage generating upwards hydrostatic pressure.",
+        "photo": null
+    },
+    {
+        "question": "How does cartilage have disco elastic behaviour?",
+        "answer": "Visco elastic behaviour is determined by solids and fluids interplay in the Extracellular matrix. ",
+        "photo": null
+    },
+    {
+        "question": "What are the phases of the Creep response:",
+        "answer": "Instantaneous response: Initial deformation due to elastic compression,\r\nCreep phase: interstitial fluid is exuded from cartilage,\r\nEquilibrium phase: plateau where compressive force is supported by solid matrix.",
+        "photo": null
+    }
+]

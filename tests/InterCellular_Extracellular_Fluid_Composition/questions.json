@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What are the main ionic constituents of Intercellular fluid: ",
+        "answer": "Cations: Potassium (K+), Magnesium(MG 2+), Anions: Phosphate (PO3-4), Protein anions",
+        "photo": null
+    },
+    {
+        "question": "What are the main ionic constituents of extracellular fluids and plasmas:  ",
+        "answer": "Cations: Sodium (Na+) Anions: Bicarbonate (HCO-3), Chlorine (Cl-)",
+        "photo": null
+    },
+    {
+        "question": "What are the differences between Plasma and Extracellular fluid:",
+        "answer": "Plasma has more protein anions",
+        "photo": null
+    },
+    {
+        "question": " How does the plasma membrane regulate diffusion?",
+        "answer": "Membrane has selective permeability,\r\nMembrane thickness varies, \r\nPartition Coefficient determines lipid solubility for diffusion,\r\nElectrochemical gradient regulates ion movement based on charge concentration,\r\nExistence of pores/ transporters and active transport for charged particles. ",
+        "photo": null
+    },
+    {
+        "question": "what is ionic strength? ",
+        "answer": "A measure of the total concentration of ions in a solution.",
+        "photo": null
+    },
+    {
+        "question": "How is ionic strength balanced inside vs outside the cell to maintain optimal cell volume?",
+        "answer": "Osmotic pressure ensures no net water movements under normal conditions, maintaining iso-osmolarity. Sodium-potassium pump balances cations, and Cl\u207b movement balances cross-membrane charge.",
+        "photo": null
+    },
+    {
+        "question": "what is iso osmolarity: ",
+        "answer": "Equal osmotic pressure inside and outside the cell. ",
+        "photo": null
+    },
+    {
+        "question": "What is the effects of a sodium potassium pump cycle? ",
+        "answer": "1 ATP is hydrolysed for energy, 3 Sodium (Na+) are pumped out of the cell, 2 Potassium (K+) are pumped in. Net loss of one ion. ",
+        "photo": null
+    },
+    {
+        "question": "What are the two main ICF buffers",
+        "answer": "Protein buffer system, Phosphate buffer system.",
+        "photo": null
+    },
+    {
+        "question": "Body and cell PH is a function of? ",
+        "answer": "Hydrogen ion concentration, more hydrogen = lower PH/more acidity.",
+        "photo": null
+    },
+    {
+        "question": "PH change causes? ",
+        "answer": "Alters enzyme activity, \r\nNervous system is very sensitive to PH, \r\nAffects kidney function causing K+ retention or depletion. ",
+        "photo": null
+    },
+    {
+        "question": "explain the protein buffer system:",
+        "answer": "When H+ concentrations goes down increasing PH Amino acids such as Aspartic and Glutamic acid release a H+ ion.\r\nWhen H+ concentration goes up decreasing PH Basic amino acids such as Arginine, Histidine, and Lysine accept a H+ ion. ",
+        "photo": null
+    },
+    {
+        "question": "explain the phosphate buffer system?",
+        "answer": "When H+ concentration goes down increasing PH di-Hydrogen Phosphate (H2PO-14) releases an H+ ion.\r\nWhen H+ concentration goes up decreasing PH mono-Hydrogen Phosphate (HPO-24) accepts an H+ ion.",
+        "photo": null
+    },
+    {
+        "question": "Hydrostatic and osmotic pressure: ",
+        "answer": "Hydrostatic pressure is presser exerted by a fluid at rest du to gravity or compression. \r\nOsmotic pressure is pressure preventing water movement across membranes driven by solute concentration. ",
+        "photo": null
+    },
+    {
+        "question": "Response to Hypotonic extracellular fluid:",
+        "answer": "Water influx causing swelling; cell expels Na\u207a and Cl\u207b ions",
+        "photo": null
+    },
+    {
+        "question": "What is the response to Hypertonic extracellular fluid?",
+        "answer": "Water efflux causing shrinking; cell takes up Na\u207a and Cl\u207b",
+        "photo": null
+    },
+    {
+        "question": "How does cell control Na+ and CL- uptake?",
+        "answer": "Through Na+ and Cl- symporters",
+        "photo": null
+    },
+    {
+        "question": "What is a Cotransporter? ",
+        "answer": "A protein that moves two ions across a membrane simultaneously, either in the same direction (symport) or opposite directions (antiport). Powered my membrane ion gradient.",
+        "photo": null
+    }
+]

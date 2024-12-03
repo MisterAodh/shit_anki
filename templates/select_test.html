@@ -1,0 +1,76 @@
+<!-- templates/select_test.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Test</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <style>
+        /* Inline CSS for simplicity */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 500px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        select {
+            width: 100%;
+            padding: 12px;
+            margin: 20px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .btn {
+            background-color: #008CBA;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background-color: #007B9E;
+        }
+        .messages .error {
+            color: red;
+        }
+        .messages .success {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Select a Test to Take</h2>
+        <div class="messages">
+            {% with messages = get_flashed_messages(with_categories=true) %}
+              {% if messages %}
+                {% for category, message in messages %}
+                  <p class="{{ category }}">{{ message }}</p>
+                {% endfor %}
+              {% endif %}
+            {% endwith %}
+        </div>
+        <form method="POST">
+            <label for="selected_test">Choose a Test:</label>
+            <select id="selected_test" name="selected_test" required>
+                <option value="" disabled selected>Select a test</option>
+                {% for test in tests %}
+                    <option value="{{ test }}">{{ test }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit" class="btn">Start Test</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the name of the distortion that occurs when a signal is sampled at a rate too low to capture all its frequencies?",
+        "answer": "Aliasing",
+        "photo": null
+    },
+    {
+        "question": "What is a common sampling frequency for audio and what is the sampling frequency standard professional audio and video. \r\nwhat frequency range is human speech. what frequency range are most instruments. what range do non piccolo instruments fall into. ",
+        "answer": "16 kHz 48kHz 3-4kHz 0-1.5kHz",
+        "photo": null
+    },
+    {
+        "question": "What is Finite word length",
+        "answer": "A limitation of DSP where numbers are represented with a limited number of bits. \r\nit consists of three issues. \r\nQuantisation: inputs may need rounding to fit into bit limit. \r\nOverflow: operation resultant cannot fit into bit limit\r\nRound off errors: low percision to number of decimals during operations",
+        "photo": null
+    },
+    {
+        "question": "What are analog filters, example",
+        "answer": "Processing of continuous time signals using physical components like inductors, capacitors, and resistors. Example = microphone noise reduction pre amp. ",
+        "photo": null
+    },
+    {
+        "question": "What is a digital filter example ",
+        "answer": "Processes discrete time signals applying algorithms on digitised signal. Noise cancelling headphones where unwanted noise is cut out. ",
+        "photo": null
+    },
+    {
+        "question": "Define phase delay mathematically and in words and identify all parameters and their units:",
+        "answer": "Phase delay is the phase shift experienced by the sinusoidal element of a signal as it passes through a system. It is defined as the negative of the phase delay over the angular frequency of the signal. T(w) = -0(w)/w\r\nphase shift is in radians\r\nangular frequency is radians/seconds\r\nphase delay is in seconds",
+        "photo": null
+    },
+    {
+        "question": "What are the DTFT DFT and FFT? ",
+        "answer": "The DTFT discreet time Fourier transform represents a discreet signal as a continuous function of frequencies over all possible frequencies:\r\nThe DFT discreet time Fourier transform represents a discreet signal using a finite set of sampled frequency components and assumes periodicity:\r\nThe FFT Fast Fourier transform is an algorithm used to quickly calculate the FT of discrete signal. ",
+        "photo": null
+    },
+    {
+        "question": "What s a B+1 quantiser",
+        "answer": "Quantiser with 2^B+1 distinct levels, range of input is divided into these levels. Resolution is defined by range/2^B+1.\r\n",
+        "photo": null
+    },
+    {
+        "question": "Gibbs Phenomenon",
+        "answer": "Oscillations or ripples in the frequency response of a filter, caused by abrupt truncation of the ideal impulse response",
+        "photo": null
+    },
+    {
+        "question": "Main Lobe, Side Lobes",
+        "answer": "The central peak of the frequency response of a windowed signal, representing the desired signal frequencies.Smaller peaks in the frequency response, representing unwanted frequencies (leakage) caused by truncation.",
+        "photo": null
+    }
+]

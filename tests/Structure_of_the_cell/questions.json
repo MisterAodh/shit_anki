@@ -1,0 +1,37 @@
+[
+    {
+        "question": "What are A, B, C?",
+        "answer": "Chromatin, Nucleolus, Nuclear Envelope",
+        "photo": "question_1_photo.png"
+    },
+    {
+        "question": "What are A, B, C?",
+        "answer": "Smooth Endoplasmic Reticulum, Cytosol, Lysosome",
+        "photo": "question_2_photo.png"
+    },
+    {
+        "question": "What are A, B, C?",
+        "answer": "Mitochondrion, Centrioles, Centrosome Matrix",
+        "photo": "question_3_photo.png"
+    },
+    {
+        "question": "What are A, B, C?",
+        "answer": "Microvilli, Microfilament, Microtubule",
+        "photo": "question_4_photo.png"
+    },
+    {
+        "question": "What are A, B, C?",
+        "answer": "Intermediate Filaments, Peroxisome, Secretion Being Released From Cell By Exocytosis",
+        "photo": "question_5_photo.png"
+    },
+    {
+        "question": "What are A, B, C?",
+        "answer": "Golgi apparatus, Ribosomes, Rough Endoplasmic Reticulum",
+        "photo": "question_6_photo.png"
+    },
+    {
+        "question": "What are A, B, C?",
+        "answer": "Plasma Membrane, Nucleus, Nuclear Envelope",
+        "photo": "question_7_photo.png"
+    }
+]

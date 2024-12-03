@@ -1,0 +1,132 @@
+[
+    {
+        "question": "What effects how fast a molecule diffuses across a lipid bilayer",
+        "answer": "Smaller + more hydrophobic diffuses faster. ",
+        "photo": null
+    },
+    {
+        "question": "Define membrane potential",
+        "answer": "Voltage difference between either side of a cells plasma membrane created by uneven distribution of charged ions. ",
+        "photo": null
+    },
+    {
+        "question": "Three type of gated channels are? and what opens them: ",
+        "answer": "Voltage gated: change in Membrane potential\r\nLigand gated: Binding of an agonist to the receptor\r\nstretch/volume gated: Mechanical movement",
+        "photo": null
+    },
+    {
+        "question": "what is an agonist:",
+        "answer": "A protein small molecule which activates a receptor and triggers a biological response. ",
+        "photo": null
+    },
+    {
+        "question": "what is the range of resting membrane potentials?",
+        "answer": "-70 to -90 mV",
+        "photo": null
+    },
+    {
+        "question": "What is the equilibrium potential of K+",
+        "answer": "The electrical potential at which the electrochemical gradient driving K+ out of the cell is matched by the electrical gradient pulling it back into the cell. it can be determined using the Nernst equation. ",
+        "photo": null
+    },
+    {
+        "question": "How is membrane potential maintained?",
+        "answer": "Potassium leak channels are always open. Selective permeability relatively low sodium diffusion. Sodium potassium pump. K+ equilibrium potential.",
+        "photo": null
+    },
+    {
+        "question": "How much of the cells energy dose the sodium potassium pump use?",
+        "answer": "20%",
+        "photo": null
+    },
+    {
+        "question": "draw sodium potassium pump cycle",
+        "answer": "1) binding of cytoplasm sodium to protein stimulated ATP phosphorylation. \r\n2) phosphate molecule binds to pump as ATP is phosphylated.\r\n3) Phosphorylation changes protein conformation and release Na+ outside cell\r\n4) potassium binds to NaK-ATPase triggering phosphate group release\r\n5) Loss of phosphate group restores ignition conformation\r\n6) potassium is released. ",
+        "photo": null
+    },
+    {
+        "question": "What are the three changes in membrane potential for a membrane potential at -70mV",
+        "answer": "Depolarisation = voltage tends positive,\r\nDepolarisation = voltage returns to negative,\r\nHyper polarisation = voltage becomes overly more negative then equilibrium potential. ",
+        "photo": null
+    },
+    {
+        "question": "What can membrane potential control",
+        "answer": "Actions potential: neurotransmitter release\r\nSecretion (insulin)\r\nMuscle contraction",
+        "photo": null
+    },
+    {
+        "question": "what is Vm",
+        "answer": "membrane potential",
+        "photo": null
+    },
+    {
+        "question": "what is the V of excitable and non excitable cells",
+        "answer": "V excitable is 70 - 90 mV\r\nV not excitable is 40 - 60 mV",
+        "photo": null
+    },
+    {
+        "question": "What is the resting membrane potential of a typical neuron, and what ions are primarily responsible for maintaining it?",
+        "answer": " -70 mV, maintained by K\u207a leak channels, Na\u207a/K\u207a-ATPase, and low Na\u207a permeability.",
+        "photo": null
+    },
+    {
+        "question": "Describe the phases of an action potential, including the ion movements that occur during each phase.",
+        "answer": "Depolarization: Na\u207a influx through voltage-gated Na\u207a channels.\r\nRepolarization: K\u207a efflux through voltage-gated K\u207a channels.\r\nHyperpolarization: Continued K\u207a efflux before channels close.",
+        "photo": null
+    },
+    {
+        "question": "What is the role of voltage-gated calcium channels in neuronal signaling?",
+        "answer": "They open in response to depolarization, allowing Ca\u00b2\u207a influx, which triggers neurotransmitter release at the synapse.",
+        "photo": null
+    },
+    {
+        "question": "Explain the difference between excitatory and inhibitory postsynaptic potentials (EPSPs and IPSPs)",
+        "answer": "EPSPs: Depolarize the membrane (e.g., Na\u207a influx), increasing the likelihood of an action potential.\r\nIPSPs: Hyperpolarize the membrane (e.g., Cl\u207b influx or K\u207a efflux), decreasing the likelihood of an action potential.",
+        "photo": null
+    },
+    {
+        "question": "Draw the power stoke cycle in muscle contraction",
+        "answer": "1) myosin head splits ATP becoming re-oriented and energised\r\n2) releases p myosin head binds to actin forming cross bridges\r\n3) ADP is released myosin head rotates towards sarcomere\r\n4) ATP is gained myosin head releases actin",
+        "photo": null
+    },
+    {
+        "question": "An action potential reaching the motor neuron's axon terminal causes what? ",
+        "answer": "triggers the release of acetylcholine (ACh) at the neuromuscular junction",
+        "photo": null
+    },
+    {
+        "question": "What does acetalcholine bind to, and what does that cause?  ",
+        "answer": "It binds to the nicotinic receptors on the sarcolemma causing depolarisation of muscle and initiating action potentials",
+        "photo": null
+    },
+    {
+        "question": "How does the muscle fibre action potential propagate? ",
+        "answer": "Action potential travels along sarcolemma and t tubules triggering sarcoplasm reticulum to release Ca+ anions",
+        "photo": null
+    },
+    {
+        "question": "What is the role of Ca+ in muscle contraction?",
+        "answer": "Ca+ binds to troponin causing tropomyosin to shift which exposes the binding sites for actin and myosin.",
+        "photo": null
+    },
+    {
+        "question": "what enzyme breaks down acetylcholine in the synaptic cleft?",
+        "answer": "acetylcholinesterase",
+        "photo": null
+    },
+    {
+        "question": "what happens to Ca+ after muscle exertion? ",
+        "answer": "it is pumped back into the sarcoplasmic reticulum.",
+        "photo": null
+    },
+    {
+        "question": "How does membrane depolarization lead to insulin release ",
+        "answer": "In pancreatic beta cells depolarisation causes opening of Ca+ channels, Calcium influx causes fusion of insulin containing granules with the cell membrane",
+        "photo": null
+    },
+    {
+        "question": "What triggers insulin release?",
+        "answer": "Increased Glucose uptake increases ATP production in pancreatic beta cells. ATP binds to K+ leak channels closing them",
+        "photo": null
+    }
+]

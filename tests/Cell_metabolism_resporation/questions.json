@@ -1,0 +1,107 @@
+[
+    {
+        "question": "reactions either store or release energy what are these",
+        "answer": "Endergonic reactions: absorbs energy,\r\nExergonic reactions: release energy",
+        "photo": null
+    },
+    {
+        "question": "What is the energy of ATP -> ADP + P",
+        "answer": "7.3 DG ",
+        "photo": null
+    },
+    {
+        "question": "Initial investment to start a reaction",
+        "answer": "Activation energy, provided by enzymes at normal temperatures.",
+        "photo": null
+    },
+    {
+        "question": "Enzymes - notes",
+        "answer": "Substrate specific,\r\nActive site: region substrate molecules bind to undergo a chemical reaction.\r\nCatalytic Center: catalyses the chemical reaction\r\nEnzyme-substrate complex",
+        "photo": null
+    },
+    {
+        "question": "Non protein helpers to aid catalysis in enzymes",
+        "answer": "Co-factors: Zn, Cu, Mg, Fe: participate in redox reaction\r\nCo-enzyme = organic: Vitamin C, NAD+",
+        "photo": null
+    },
+    {
+        "question": "what controls enzyme activity:",
+        "answer": "Enzymes activated by phosphorylation: Kinase phosphoylates and phosphatase dephosphorylation ",
+        "photo": null
+    },
+    {
+        "question": "Two metabolic pathways",
+        "answer": "Catabolic (creates energy),\r\nAnabolic (uses energy)",
+        "photo": null
+    },
+    {
+        "question": "what is the structure of ATP",
+        "answer": "Sections: Adenosine, Triphosphate\r\nA) Adenine + Ripose\r\nT) Three phosphate groups",
+        "photo": null
+    },
+    {
+        "question": "Cellular respiration formula",
+        "answer": "G + 6O2 = 6CO2 + 6H2O + ATPs",
+        "photo": null
+    },
+    {
+        "question": "Redox reaction",
+        "answer": "Oxidations:Loss of electrons by one chemical species\r\nReduction: Gain of electron by another",
+        "photo": null
+    },
+    {
+        "question": "Describe the Electron transport chain",
+        "answer": "Electron motive force, \r\nElectrons flow through O2 intermediates,(releasing energy for ATP synthesis. \r\nThen combine with 2 hydrogen and an oxygen to make H2O",
+        "photo": null
+    },
+    {
+        "question": "Key electron carriers:",
+        "answer": "NAD, NADP, FAD, FNM",
+        "photo": null
+    },
+    {
+        "question": "Net Glycolic reaction?",
+        "answer": "Glucose + 2Pi + 2ADP + 2NAD+   =  2Pyruvate + 2H2O + 2ATP +2NADH +2H",
+        "photo": null
+    },
+    {
+        "question": "Chemical makeup of Pyruvate",
+        "answer": "C3 + H3 + O3",
+        "photo": null
+    },
+    {
+        "question": "Glycolysis story",
+        "answer": "Glycolysis = anaerobic breakdown in cytoplasm\r\nGlucose undergoes 2 phases and 10 steps. \r\nfirst 5 steps preparation Glucose + 2 ATP = 2 GADP\r\nsteps 5-10 payoff 2 GADP = 4ATP + 2Pyruvate",
+        "photo": null
+    },
+    {
+        "question": "Net Reaction of citric acid cycle per Acetyl CoA",
+        "answer": "Acetyl CoA + 3NAD + FAD + GDP + Pi + 2H2O    =   2CO2 + 3NADH + FADH2 + GTP + CoA",
+        "photo": null
+    },
+    {
+        "question": "What is the ATP requirements of the body",
+        "answer": "70kg man has 250g ATP reserves and required 83kg a day",
+        "photo": null
+    },
+    {
+        "question": "What is oxidative phosphorylation",
+        "answer": "ATP formation due to e- transfer from NADH/FADH2 to O2",
+        "photo": null
+    },
+    {
+        "question": "What are the steps of glucose breakdown",
+        "answer": "Glycolysis -> Krebs cycle -> oxidative phosphorylation",
+        "photo": null
+    },
+    {
+        "question": "what are the steps of the electron transport chain?",
+        "answer": "Inner mitochondrial membrane, Protein complexes 1-4, have increasing electron affinity. \r\nNADH/FADH2 deliver electrons to complex 1, electron travels down to complex 4 in a series of redox radians. \r\nThis generates a H+ proton accumulation in intermenbrane space. \r\nIonic potential drives H+ through ATPsynthase (proton motive force) which powers phosphorylation of ATP\r\n6NADH+2FADH2 = 28 ATP",
+        "photo": null
+    },
+    {
+        "question": "what is chemiosmosis?",
+        "answer": "The use of energy in ion gradient to drive cellular work",
+        "photo": null
+    }
+]
